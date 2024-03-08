@@ -1,0 +1,10 @@
+{
+  "flash-sale-coundown": {
+    "stars": {
+      "label": "Flash Sale coundown"
+    },
+    "home": {
+      "recommendationText": "Recommended Product!"
+    }
+  }
+}
